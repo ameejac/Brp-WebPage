@@ -1,0 +1,64 @@
+.contents
+{
+  text-align: left;
+ background-color: lightblue;
+  border: 2px solid black;
+  text-align: left;
+}
+.heading
+ {
+   
+   text-align: center;
+   border:2px solid  black;
+ }
+ input[type=text]
+ {
+      
+      width: 100%;
+      padding: 12px 20px;
+      margin: 10px;
+     
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+  }
+  .names
+  {
+    display: flex;
+  }
+  .address
+{
+  width: 100%;
+  display: flex;
+}
+.Gender
+{
+ background-color: lightblue;
+ border-color: black;
+ border-radius: 50px;
+text-align: center;
+}
+.number
+  {
+    display: flex;
+   
+  }
+  .code
+  {
+    width: 159px;
+  }
+  .bottomborder
+  {
+    border: 2px solid black;
+  }
+  .cancelbtn
+ {
+     font:200px;
+     border: rgb(70, 69, 69);
+     text-align: left;
+ }
+.mail
+{
+  width: 98%;
+}
+ 
+ 
